@@ -1,1 +1,1 @@
-records web session using rrweb
+record web session using rrweb
